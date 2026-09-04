@@ -16,7 +16,7 @@ Tenho uma forte paixão pela **área de dados** e pelo desenvolvimento de modelo
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="50" alt="Python" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="55" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="55" height="50" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" height="50" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="50" alt="Jupyter Notebook" />
 </p>
 
