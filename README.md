@@ -18,5 +18,7 @@ Tenho uma forte paixão pela **área de dados** e pelo desenvolvimento de modelo
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="55" height="50" alt="PostgreSQL" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" height="50" alt="MySQL" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="50" alt="Jupyter Notebook" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="55" height="50" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="55" height="50" />
 </p>
 
