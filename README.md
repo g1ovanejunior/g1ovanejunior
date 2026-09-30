@@ -20,6 +20,6 @@ Tenho uma forte paixão pela **área de dados** e pelo desenvolvimento de modelo
   <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="50" alt="Jupyter Notebook" />
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="55" height="50" />
   <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="55" height="50" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" width="55" height="50" />
+  <img width="55" height="50" src="https://img.icons8.com/ios/50/power-bi.png" alt="power-bi"/>
 </p>
 
