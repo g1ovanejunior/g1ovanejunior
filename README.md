@@ -45,7 +45,7 @@ Tenho foco em **Ciência de Dados, Análise de Dados e Machine Learning**, busca
 
 * **Graduação:** Ciência da Computação e Inteligência Artificial — UFMA *(Cálculo, Geometria Analítica, Cálculo Vetorial, Algoritmos em C e Engenharia de Software)*.
 * **Formação Técnica:** Ensino Médio Técnico Integrado em Eletrotécnica — IFMA Monte Castelo.
-* **Fora do código:** Disciplinado com treinos na academia, vôlei às segundas e quartas à noite e partidas diárias de *Termo* e *Contexto*.
+* **Fora do código:** Disciplinado com treinos na academia e vôlei.
 
 ---
 
