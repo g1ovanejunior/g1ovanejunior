@@ -1,25 +1,57 @@
-## Olá , sou o Giovane!👋
+# Olá, sou o Giovane Júnior! 👋
 
-Olá! Me chamo **Giovane**, sou estudante de **Ciência de Computação e Inteligência Artificial** na **Universidade Federal do Maranhão (UFMA)** — onde venho aprofundando meus conhecimentos em **Inteligência Artificial**. 
+Sou graduando em **Ciência da Computação e Inteligência Artificial** na **Universidade Federal do Maranhão (UFMA)** (turma 2026.1) e técnico em **Eletrotécnica** pelo **IFMA Campus Monte Castelo**, morando em São Luís - MA.
 
-Tenho uma forte paixão pela **área de dados** e pelo desenvolvimento de modelos de **Machine Learning**. Meu foco atual é aplicar conceitos analíticos e computacionais na resolução de problemas complexos, transformando volumes de dados em insights estratégicos e soluções inteligentes. Estou em busca de oportunidades para evoluir profissionalmente, colaborar com projetos desafiadores e contribuir ativamente em equipes de tecnologia e dados.
+Tenho foco em **Ciência de Dados, Análise de Dados e Machine Learning**, buscando estágios e oportunidades para transformar dados brutos em modelos preditivos e insights estratégicos. No dia a dia, gosto de aprender na prática — seja limpando bases de dados públicas complexas, tunando algoritmos de classificação ou estruturando pipelines para pequenos negócios.
 
-##
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=g1ovanejunior&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="49%" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=g1ovanejunior&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="49%" />
-</p>
+### 🚀 Projetos em Destaque
 
-##
+* **📊 Análise e Previsão de Risco de Crédito (`previsao-credit-navie-bayes`)**
+  * Modelo de classificação com **Gaussian Naive Bayes** em Python para previsão de inadimplência.
+  * Evolução de um baseline inicial (76% de acurácia) através de Análise Exploratória de Dados (EDA), testes estatísticos (**Qui-Quadrado** e **Mutual Information**), normalização com **Yeo-Johnson PowerTransformer** e ajuste de limiar de decisão (*threshold tuning*).
+  * Integração do dataset tratado com dashboards interativos no **Power BI** para comparação de métricas (Acurácia, Precisão e Recall) entre o modelo bruto e o otimizado.
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="50" alt="Python" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="55" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" height="50" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" height="50" alt="Jupyter Notebook" />
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="55" height="50" />
-  <img src="https://cdn.simpleicons.org/github/white" height="50" width="55" alt="GitHub" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="50" width="55" alt="Power BI" />
-</p>
+* **🏥 Observatório de Saúde Pública & Banco de Dados (DataSUS)**
+  * Pipeline de extração, limpeza e modelagem de dados reais do **DataSUS** (bases CNES, UBS e SIM-DO) utilizando Python (`pandas`, `pysus`) e R (`microdatasus`).
+  * Padronização de identificadores municipais (IBGE) e regiões de saúde, tratamento de valores ausentes e ingestão em banco de dados relacional **PostgreSQL**.
 
+* **💈 Inteligência de Dados & Retenção para Negócios Locais (Protótipo B2B)**
+  * Desenvolvimento de scripts analíticos em Python e geração de datasets para análise de comportamento de clientes, prevenção de *churn* e apoio à decisão em micronichos (como barbearias).
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="Linguagem C" title="Linguagem C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter Notebook" title="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" title="Power BI" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" title="Excel" />
+</div>
+
+* **Linguagens & Análise:** Python (Pandas, Scikit-Learn, SciPy), SQL, Linguagem C e noções de R.
+* **Dados & BI:** PostgreSQL, Power BI, Excel (simulações e modelagem) e Jupyter Notebook.
+* **Ambiente & Versionamento:** Git/GitHub, VS Code e Anaconda.
+
+---
+
+### 📚 Base Acadêmica & Interesses
+
+* **Graduação:** Ciência da Computação e Inteligência Artificial — UFMA *(Cálculo, Geometria Analítica, Cálculo Vetorial, Algoritmos em C e Engenharia de Software)*.
+* **Formação Técnica:** Ensino Médio Técnico Integrado em Eletrotécnica — IFMA Monte Castelo.
+* **Fora do código:** Disciplinado com treinos na academia, vôlei às segundas e quartas à noite e partidas diárias de *Termo* e *Contexto*.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g1ovanejunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g1ovanejunior&layout=compact&langs_count=7&theme=dark"/>
+</div>
